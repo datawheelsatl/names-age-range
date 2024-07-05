@@ -1,4 +1,4 @@
-# names-age-range
+# Playin around with variables 
 Playing around with variables with added ranges and subjects
 people = {'Tim': 43, 'Brian': 44, 'Nadia': 39, 'Quitta':36, 'Maurice': 13, 'PJ': 7}
 ppl_list = list(people.keys())
